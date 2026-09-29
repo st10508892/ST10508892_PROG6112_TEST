@@ -10,7 +10,7 @@ public class ConsoleSalesReport {
         Scanner input = new Scanner(System.in);
 
         // Step 2: List of console devices
-        String[] consoles = {"PS5", "XBOX", "SWITCH", "PC"};
+        String[] consoles = {"PS5", "XBOX", "SWITCH"};
 
         // Step 3: Ask how many stores will be entered
         System.out.println("----- CONSOLE DEVICE SALES -----");
